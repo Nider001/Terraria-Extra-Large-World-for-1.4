@@ -1,5 +1,5 @@
 # Terraria-Extra-Large-World-for-1.4
-This is my version of Extra Large World mod for the latest TModLoader 1.4 beta. It forces every world you create to have a fixed size of 16800x2400 tiles. When you generate the world just use the large world option and whatever other options you want.
+This is my version of Extra Large World mod for the latest TModLoader 1.4 beta (https://github.com/Chik3r/tModLoader/wiki). It forces every world you create to have a fixed size of 16800x2400 tiles. When you generate the world just use the large world option and whatever other options you want.
 
 To use the mod itself just drop the '.tmod' file inside your 'Documents\my games\Terraria\ModLoader\Beta\Mods' folder. The current version is quite unstable, so be prepared for a few 'IndexOutOfRange' exceptions before the world successfully generates.
 
